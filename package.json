@@ -11,7 +11,7 @@
     "mqtt": "*"
   },
   "engines": {
-		"node": "0.10.26"
+		"node": "*"
   },
   "repository": {}
 }
